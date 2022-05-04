@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 # View the project
-<a href="http://54.237.195.177/" target="_blank">http://54.237.195.177/</>
+<a href="http://54.237.195.177/" target="_blank">http://54.237.195.177/</a>
 
 ## Development server
 
